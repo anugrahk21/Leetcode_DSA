@@ -4,6 +4,8 @@ Welcome to my comprehensive collection of **Data Structures & Algorithms** solut
 
 > 🌟 "*The only way to learn a new programming language is by writing programs in it.*" - Dennis Ritchie
 
+---
+
 ## 📖 About This Repository
 
 This repository contains my journey through **LeetCode problems**, focusing on building strong foundations in **Data Structures and Algorithms** using **C++**.🔥
