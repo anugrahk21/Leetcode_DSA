@@ -6,14 +6,7 @@ Welcome to my comprehensive collection of **Data Structures & Algorithms** solut
 
 ## 📖 About This Repository
 
-This repository contains my journey through **LeetCode problems**, focusing on building strong foundations in **Data Structures and Algorithms** using **C++**. Each solution is carefully crafted with clean code and optimal time/space complexity! 🔥
-
-### 🎨 What You'll Find Here:
-- ✅ **Clean C++ Solutions** with detailed comments
-- 📊 **Optimized Algorithms** for better performance  
-- 🧠 **Problem-solving approaches** and thought processes
-- 🏷️ **Categorized by topics** for easy navigation
-- 📈 **Progressive difficulty levels** from Easy to Hard
+This repository contains my journey through **LeetCode problems**, focusing on building strong foundations in **Data Structures and Algorithms** using **C++**.🔥
 
 ---
 
