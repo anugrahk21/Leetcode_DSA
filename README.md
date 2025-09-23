@@ -14,14 +14,15 @@ This repository contains my journey through **LeetCode problems**, focusing on b
 
 ## 📋 Problem Solutions
 
-| # | LeetCode No. | Problem | Key Topics | View Code |
-|---|--------------|---------|------------|-----------|
-| 1️⃣ | [1](https://leetcode.com/problems/two-sum/) | **Two Sum** | `Arrays` `Hash Table` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./1-two-sum/1.%20Two%20Sum.cpp) |
-| 2️⃣ | [9](https://leetcode.com/problems/palindrome-number/) | **Palindrome Number** | `Math` `String` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./9-palindrome-number/9.%20Palindrome%20Number.cpp) |
-| 3️⃣ | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | **Merge Two Sorted Lists** | `Linked List` `Recursion` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./21-merge-two-sorted-lists/21.%20Merge%20Two%20Sorted%20Lists.cpp) |
-| 4️⃣ | [27](https://leetcode.com/problems/remove-element/) | **Remove Element** | `Arrays` `Two Pointers` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./27-remove-element/27.%20Remove%20Element.cpp) |
-| 5️⃣ | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | **Remove Duplicates from Sorted List** | `Linked List` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./83-remove-duplicates-from-sorted-list/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp) |
-| 6️⃣ | [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | **Intersection of Two Arrays II** | `Arrays` `Hash Table` `Sorting` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./350-intersection-of-two-arrays-ii/350.%20Intersection%20of%20Two%20Arrays%20II.cpp) |
+| # | LeetCode No. | Problem | Your Approach | Key Topics | View Code |
+|---|--------------|---------|---------------|------------|-----------|
+| 1️⃣ | [1](https://leetcode.com/problems/two-sum/) | **Two Sum** | `Nested Loops` `Brute Force O(n²)` | `Arrays` `Hash Table` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./1-two-sum/1.%20Two%20Sum.cpp) |
+| 2️⃣ | [9](https://leetcode.com/problems/palindrome-number/) | **Palindrome Number** | `Number Reversal` `Math Operations` | `Math` `Two Pointers` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./9-palindrome-number/9.%20Palindrome%20Number.cpp) |
+| 3️⃣ | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | **Merge Two Sorted Lists** | `Iterative Merging` `Dummy Node` | `Linked List` `Recursion` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./21-merge-two-sorted-lists/21.%20Merge%20Two%20Sorted%20Lists.cpp) |
+| 4️⃣ | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | **Remove Duplicates from Sorted Array** | `Two Pointers` `In-place Modification` | `Arrays` `Two Pointers` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./26-remove-duplicates-from-sorted-array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp) |
+| 5️⃣ | [27](https://leetcode.com/problems/remove-element/) | **Remove Element** | `Two Pointers` `In-place Array Modification` | `Arrays` `Two Pointers` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./27-remove-element/27.%20Remove%20Element.cpp) |
+| 6️⃣ | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | **Remove Duplicates from Sorted List** | `Dummy Node` `Linked List Traversal` | `Linked List` `Two Pointers` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./83-remove-duplicates-from-sorted-list/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp) |
+| 7️⃣ | [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | **Intersection of Two Arrays II** | `Sorting + Two Pointers` `Array Intersection` | `Arrays` `Hash Table` `Sorting` | [![Solution](https://img.shields.io/badge/Solution-View%20Code-brightgreen?style=for-the-badge&logo=github)](./350-intersection-of-two-arrays-ii/350.%20Intersection%20of%20Two%20Arrays%20II.cpp) |
 
 ---
 
