@@ -1,8 +1,11 @@
+<div align="center">
+  
 # 🚀 LeetCode DSA Solutions 💻
 
 Welcome to my comprehensive collection of **Data Structures & Algorithms** solutions! 🎯
 
 > 🌟 "*The only way to learn a new programming language is by writing programs in it.*" - Dennis Ritchie
+</div>
 
 ---
 
