@@ -5,4 +5,4 @@ public:
         return nums.size()!=s.size(); //return true if not equal(duplicates present).
 
     }
-};auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
+};
